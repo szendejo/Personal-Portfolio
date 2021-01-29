@@ -1,2 +1,2 @@
 # Personal-Portfolio
-My portfolio.
+My portfolio, done using React.
